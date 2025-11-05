@@ -1,4 +1,4 @@
 # Demo
 This is my first git repository.
 <br>
-Author - Srikala
+Author - Srikala Jalla
